@@ -18,7 +18,7 @@ of programming such as variables, data types, file operation etc.
  
 ### Level 1 Coding Tutorials
 For python, I've build a tutorial playlist for absolute beginners. Watch **first 14** 
-tutorails from this playlist. Remaining you can watch at a later stage.
+tutorials from this playlist. Remaining you can watch at a later stage.
 
 Python playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
 
@@ -96,7 +96,7 @@ Week 19, 20, 21, 22: Deep Learning
   
 Week 23, 24: ML Ops
 ====================
-You need to learn atleast one Machine Learning Life Cycle tool. MLFlow is one such opensource tool. Please practice tutorials on mlflow official website to get a feel of how these tools can automate machine learning life cycle.
+You need to learn at least one Machine Learning Life Cycle tool. MLFlow is one such opensource tool. Please practice tutorials on mlflow official website to get a feel of how these tools can automate machine learning life cycle.
 https://www.mlflow.org/docs/latest/tutorials-and-examples/index.html#
 
 Additional skills that will be helpful
